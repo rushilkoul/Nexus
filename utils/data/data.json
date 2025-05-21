@@ -1,0 +1,18 @@
+{
+    "localVars": {
+        "installedRoom": "12A",
+        "debug_mode": 1,
+        "test_mode": 0,
+        "user_level": 1
+    },
+    "timetables": {
+        "12A": [
+            ["IP P E", "math", "chemistry", "3rd period wooo", "IP P E", "physics", "english", "english", "math"], 
+            ["IP P E", "math", "chemistry", "IP P E", "IP P E", "physics", "english", "english", "math"],
+            ["Work Education", "math", "chemistry", "IP P E", "IP P E", "physics", "english", "english", "math"],
+            ["English", "math", "chemistry", "IP P E", "IP P E", "physics", "english", "english", "math"],
+            ["IP P E", "math", "chemistry", "IP P E", "IP P E", "physics", "english", "english", "physics"],
+            ["error_no_zero_period", "math", "chemistry", "IP P E", "IP P E", "physics"]
+        ]
+    }
+}

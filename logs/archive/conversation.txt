@@ -1,0 +1,505 @@
+------------- NEXUS CONVERSATION LOGS ---------------
+Tue, 15 Aug 01:19 PM > could not recognize
+	Reponse: None
+Tue, 15 Aug 01:20 PM > convert 3 seconds to hours
+	Reponse: (3.0, 'seconds') is 0.0008333333333333333 hour
+Tue, 15 Aug 01:20 PM > convert 3 km to nanometres
+	Reponse: (3.0, 'km') is 2999999999999.9995 nanometer
+Tue, 15 Aug 01:21 PM > convert 8 seconds to minutes
+	Reponse: (8.0, 'seconds') is 0.13333333333333333 minute
+Tue, 15 Aug 01:21 PM > convert 8 hours to minutes
+	Reponse: (8.0, 'hours') is 480.0 minute
+Tue, 15 Aug 01:25 PM > convert 60 minutes to hours
+	Reponse: (60, 'minutes') is 1 hour
+Tue, 15 Aug 01:25 PM > convert 2 hours 2 minutes
+	Reponse: Invalid input. Please try again.
+Tue, 15 Aug 01:25 PM > convert 2 hours in minutes
+	Reponse: Invalid input. Please try again.
+Tue, 15 Aug 01:25 PM > convert 2 hours 2 minutes
+	Reponse: Invalid input. Please try again.
+Tue, 15 Aug 01:25 PM > convert 2 km to metres
+	Reponse: (2, 'km') is 2000 meter
+Tue, 15 Aug 01:26 PM > convert 8 joules to calories
+	Reponse: (8, 'joules') is 1.9120458891013383 calorie
+Tue, 15 Aug 01:26 PM > convert 8 seconds to kilometres
+	Reponse: cannot convert from seconds to kilometres. Please check your units.
+Tue, 15 Aug 01:26 PM > convert 8 seconds to kilometres
+	Reponse: cannot convert from seconds to kilometres. Please check your units.
+Tue, 15 Aug 01:28 PM > convert 8 hours to nanoseconds
+	Reponse: (8, 'hours') is 28799999999999.996 nanosecond
+Tue, 15 Aug 01:28 PM > convert 8 seconds to hours
+	Reponse: (8, 'seconds') is 0.0022222222222222222 hour
+Tue, 15 Aug 01:29 PM > convert 8 seconds to hours
+	Reponse: (8, 'seconds') is 0.0022222222222222222 hour
+Tue, 15 Aug 01:29 PM > convert 8 hours to nanoseconds
+	Reponse: (8, 'hours') is 28799999999999.996 nanosecond
+Tue, 15 Aug 01:30 PM > convert 9 m to kilometres
+	Reponse: (9, 'm') is 0.009000000000000001 kilometer
+Tue, 15 Aug 01:30 PM > convert 8 km to dogs
+	Reponse: 'dogs' is not defined in the unit registry
+Tue, 15 Aug 01:32 PM > convert 8 pendrives to 9 rhythm
+	Reponse: Invalid input. Please try again.
+Tue, 15 Aug 01:32 PM > convert 8 water to
+	Reponse: Invalid input. Please try again.
+Tue, 15 Aug 01:33 PM > convert 8 water to 9 km
+	Reponse: Invalid input. Please try again.
+Tue, 15 Aug 01:33 PM > convert 8 water
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:14 PM > convert
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:14 PM > convert 9 km to
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:14 PM > convert 9 km to metres
+	Reponse: 9 km is 9000 meter
+Sat, 16 Sep 05:14 PM > convert 3 years
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:15 PM > convert 3 years 2 months
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:15 PM > convert 3 years to months
+	Reponse: 3 years is 36 month
+Sat, 16 Sep 05:15 PM > convert 15 years 2 months
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:16 PM > sunai nahin deta kya
+	Reponse: None
+Sat, 16 Sep 05:16 PM > nexus convert hello awaaz a rahi hai kya meri
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:22 PM > convert 2 km to
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:23 PM > convert 2 km to months
+	Reponse: cannot convert from km to months. Please check your units.
+Sat, 16 Sep 05:23 PM > convert 3 km to metres
+	Reponse: 3 km is 3000 meter
+Sat, 16 Sep 05:23 PM > convert 3 km to m
+	Reponse: 3 km is 3000 meter
+Sat, 16 Sep 05:24 PM > convert 3 km to m
+	Reponse: 3 km is 3000 meter
+Sat, 16 Sep 05:24 PM > convert 5 nanoseconds to hours
+	Reponse: 5 nanoseconds is 1.388888888888889e-12 hour
+Sat, 16 Sep 05:24 PM > convert 8 seconds
+	Reponse: Invalid input. Please try again.
+Sat, 16 Sep 05:25 PM > convert 8 seconds to minutes
+	Reponse: 8 seconds is 0.13333333333333333 minute
+Sat, 16 Sep 05:49 PM > convert 3 km 2 m
+	Reponse: 3 km is 3000 meter
+Sat, 16 Sep 05:49 PM > convert 3 km 2 m
+	Reponse: 3 km is 3000 meter
+Sat, 16 Sep 05:50 PM > convert 3 km 2 m
+	Reponse: 3 km is 3000 meter
+Mon, 23 Oct 11:07 AM > evaluate 3 + 7
+	Reponse: 10
+Mon, 23 Oct 11:08 AM > evaluate 3 + 7
+	Reponse: 10
+Mon, 23 Oct 11:08 AM > evaluate 2 + 2
+	Reponse: 4
+Mon, 23 Oct 11:14 AM > evaluate 2 raised to 2
+	Reponse: 4
+Mon, 23 Oct 11:14 AM > evaluate 2 raised to 10
+	Reponse: 1024
+Mon, 23 Oct 11:15 AM > evaluate convert 2 raised to the power of 3
+	Reponse: Invalid input. Please try again.
+Mon, 23 Oct 11:16 AM > evaluate convert 3km to m raised to the power of 2
+	Reponse: Invalid input. Please try again.
+Mon, 23 Oct 11:17 AM > HI
+	Reponse: None
+Mon, 23 Oct 11:24 AM > Hi
+	Reponse: None
+Mon, 23 Oct 11:28 AM > Hi
+	Reponse: None
+Mon, 23 Oct 11:31 AM > Hi
+	Reponse: Hi there!
+Mon, 23 Oct 11:31 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:31 AM > Hi
+	Reponse: Hi there!
+Mon, 23 Oct 11:31 AM > Hi
+	Reponse: Hi there!
+Mon, 23 Oct 11:31 AM > Hi
+	Reponse: Hi there!
+Mon, 23 Oct 11:32 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:32 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:32 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:32 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:32 AM > Hi
+	Reponse: Greetings!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Greetings!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Howdy!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Hey!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Hi there!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Howdy!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Hi there!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Howdy!
+Mon, 23 Oct 11:34 AM > Hi
+	Reponse: Hey!
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: Hi there, What would you like me to do today?
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: What's up?
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: Hi, How may i help you today?Hello there!Hi, I'm Nexus, your personal assistant. How may i help you today?
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: Hi there, What would you like me to do today?
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: Hello!
+Mon, 23 Oct 11:37 AM > Hi
+	Reponse: Hi, How may i help you today?
+Mon, 23 Oct 11:38 AM > hello
+	Reponse: Greetings!
+Mon, 23 Oct 11:38 AM > hello how r u
+	Reponse: Hello there!
+Mon, 23 Oct 11:38 AM > how
+	Reponse: Hello!
+Mon, 23 Oct 11:39 AM > python
+	Reponse: Hi there, What would you like me to do today?
+Mon, 23 Oct 11:39 AM > python
+	Reponse: None
+Mon, 23 Oct 11:39 AM > hello
+	Reponse: None
+Mon, 23 Oct 11:40 AM > hello
+	Reponse: What's up?
+Mon, 23 Oct 11:40 AM > python
+	Reponse: Hi, I'm Nexus, your personal assistant. How may i help you today?
+Mon, 23 Oct 11:41 AM > test
+	Reponse: Hi, How may i help you today?
+Mon, 23 Oct 11:42 AM > test
+	Reponse: Hi, I'm Nexus, your personal assistant. How may i help you today?
+Mon, 23 Oct 11:42 AM > hello hello how are you audi
+	Reponse: Hi, How may i help you today?
+Mon, 23 Oct 11:43 AM > hello
+	Reponse: Hi, I'm Nexus, your personal assistant. How may i help you today?
+Mon, 23 Oct 11:43 AM > python
+	Reponse: None
+Mon, 23 Oct 11:44 AM > good morning
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 11:44 AM > convert 3 km to metres
+	Reponse: 3 km is 3000 meter
+Mon, 23 Oct 11:44 AM > convert 4 nanoseconds to hours
+	Reponse: 4 nanoseconds is 1.1111111111111112e-12 hour
+Mon, 23 Oct 11:45 AM > evaluate 3 + 9
+	Reponse: 12
+Mon, 23 Oct 11:48 AM > evaluate 3 / 9
+	Reponse: 0.3333333333333333
+Mon, 23 Oct 11:49 AM > evaluate 9 x 11
+	Reponse: 99
+Mon, 23 Oct 11:49 AM > evaluate 8 x 9
+	Reponse: 72
+Mon, 23 Oct 11:49 AM > evaluate 917 x 42
+	Reponse: 38514
+Mon, 23 Oct 11:54 AM > evaluate three times 9 raised to 9
+	Reponse: 1162261467
+Mon, 23 Oct 11:55 AM > hello
+	Reponse: Hi there, What would you like me to do today?
+Mon, 23 Oct 12:08 PM > good morning
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:09 PM > good day
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:09 PM > how
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:09 PM > how
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:09 PM > how are you
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:10 PM > nexus hello
+	Reponse: Hello!
+Mon, 23 Oct 12:10 PM > how are you doing
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:12 PM > how
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:12 PM > how are you doing
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:12 PM > how are you doing
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:18 PM > how
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:18 PM > how are you doing
+	Reponse: Sorry, I was unable to understand that.
+Mon, 23 Oct 12:19 PM > how are you doing
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:12 AM > nexus rhythm go hai na
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:13 AM > rhythm gu hai na
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:13 AM > good morning
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:13 AM > hello
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:13 AM > convert 5 cm to m
+	Reponse: 5 cm is 0.05 meter
+Thu, 14 Mar 10:14 AM > hello hello
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:15 AM > how
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:15 AM > how
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:15 AM > good morning
+	Reponse: Sorry, I was unable to understand that.
+Thu, 14 Mar 10:39 PM > what is 3 + 3
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 10:39 PM > good morning
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 10:40 PM > good morning
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 10:40 PM > good morning
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 10:43 PM > good morning sun liya kar
+	Reponse: Doing quite fine, thanks for asking!
+Thu, 14 Mar 11:28 PM > good morning
+	Reponse: Good Night! Make sure you go to bed on time!
+Thu, 14 Mar 11:28 PM > good morning
+	Reponse: Good Night! Make sure you go to bed on time!
+Thu, 14 Mar 11:29 PM > good morning sun le besharm good morning
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 11:30 PM > good morning
+	Reponse: shut up nigga.
+Thu, 14 Mar 11:31 PM > sanchit kah raha hai good morning
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 11:31 PM > good morning
+	Reponse: sanchit bay sheram paw dhai car lay
+Thu, 14 Mar 11:32 PM > good morning
+	Reponse: sanchit besharam padhai karle
+Thu, 14 Mar 11:33 PM > how r u
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 11:33 PM > how are you
+	Reponse: g
+Thu, 14 Mar 11:34 PM > good morning
+	Reponse: shut up nigga
+Thu, 14 Mar 11:34 PM > good morning
+	Reponse: shut up nigga
+Thu, 14 Mar 11:36 PM > good morning
+	Reponse: shut up nigga
+Thu, 14 Mar 11:40 PM > integrate x raise to 4 with respect to
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 11:40 PM > integrate x raised to 4 with respect to x
+	Reponse: integrating x raised to 4 is x raised to 4 is x raised to 4 is x raised to 4 is x raised to four
+Thu, 14 Mar 11:41 PM > integrate x raise to 4 with respect to
+	Reponse: Sorry, I could not understand that.
+Thu, 14 Mar 11:41 PM > good afternoon
+	Reponse: Good Night! Make sure you go to bed on time!
+Thu, 14 Mar 11:41 PM > convert 8 m to nm
+	Reponse: 8 m is 7999999999.999999 nanometer
+Thu, 14 Mar 11:42 PM > integrate x raised to 4 with respect to x
+	Reponse: integrating x raised to 4 is x raised to 4 is x raised to 4 is x raised to 4 is x raised to four integrating x raised to 4 is x raised to 4 is x raised to 4 is x raised to 4 is x raised to four integrating x raised to 4 is x raised to 4 is x raised to 4 is x raised to 4 is x raised to four
+Thu, 14 Mar 11:47 PM > what is 3 + 3
+	Reponse: 6
+Thu, 14 Mar 11:47 PM > what is 3 ^
+	Reponse: Sorry, I could not calculate that.
+Thu, 14 Mar 11:47 PM > what is 3 raised to 9
+	Reponse: 19683
+Fri, 15 Mar 12:12 AM > what is my sixth period
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:16 AM > what is my 7th period
+	Reponse: None
+Fri, 15 Mar 12:32 AM > what is my sixth period
+	Reponse: None
+Fri, 15 Mar 12:33 AM > could not recognize
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 12:33 AM > what is my six
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:35 AM > what is my first period
+	Reponse: None
+Fri, 15 Mar 12:36 AM > what is my first period
+	Reponse: None
+Fri, 15 Mar 12:36 AM > what is my first period
+	Reponse: None
+Fri, 15 Mar 12:37 AM > what is my first period
+	Reponse: None
+Fri, 15 Mar 12:38 AM > what is my last period
+	Reponse: None
+Fri, 15 Mar 12:39 AM > what is my last period what is my last period
+	Reponse: None
+Fri, 15 Mar 12:39 AM > what is my last period
+	Reponse: None
+Fri, 15 Mar 12:43 AM > what is my last
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:44 AM > when is my last
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 12:46 AM > what is my third period
+	Reponse: IP/PE
+Fri, 15 Mar 12:47 AM > what is my last
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:48 AM > what is my last period
+	Reponse: physics
+Fri, 15 Mar 12:48 AM > what is my first period
+	Reponse: math
+Fri, 15 Mar 11:11 AM > what is my 9th period
+	Reponse: That is not a valid period. Please choose from 1 to 8.
+Fri, 15 Mar 11:12 AM > what is my shakes period awesome what is my 6th period bewakoof
+	Reponse: That is not a valid period. Please choose from 1 to 8.
+Fri, 15 Mar 11:12 AM > what is my 8th period
+	Reponse: physics
+Fri, 15 Mar 11:12 AM > what is my last period
+	Reponse: physics
+Fri, 15 Mar 11:12 AM > what is my zero period
+	Reponse: That is not a valid period. Please choose from 1 to 8.
+Fri, 15 Mar 11:18 AM > what is my zero period
+	Reponse: physics
+Fri, 15 Mar 11:19 AM > what is my zero period
+	Reponse: IP P E
+Fri, 15 Mar 11:20 AM > stop
+	Reponse: 
+Fri, 15 Mar 11:33 AM > hu r u
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 11:33 AM > what r u
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 11:34 AM > what is your name what is your name
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:37 PM > what is your name what is your name what is your name
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:37 PM > who are you
+	Reponse: I'm Nexus, your personal assistant. How may I help you today?
+Fri, 15 Mar 12:37 PM > hello hello hello
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 12:38 PM > hello hello hello hello
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 12:39 PM > hello hello hello hello hello
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 12:39 PM > what is your name what is your name what is your name
+	Reponse: I'm Nexus, your personal assistant. How may I assist you today?
+Fri, 15 Mar 12:40 PM > what is 3 + 3 what is 3 + 3
+	Reponse: 6
+Fri, 15 Mar 12:46 PM > what is 9 x
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 12:46 PM > what is 9 x 9
+	Reponse: 81
+Fri, 15 Mar 12:47 PM > what is your name
+	Reponse: I'm Nexus, your personal assistant. How may I assist you today?
+Fri, 15 Mar 12:47 PM > good morning good morning good morning good morning
+	Reponse: Good Afternoon!
+Fri, 15 Mar 12:48 PM > convert 5 ft into cm
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 12:51 PM > convert 5 ft into centimetres
+	Reponse: 5 ft is 152.39999999999998 centimeter
+Fri, 15 Mar 12:54 PM > convert 5 ft to centimetres
+	Reponse: 5 ft is 152.4 centimeter
+Fri, 15 Mar 12:55 PM > convert 5 nanoseconds into seconds
+	Reponse: 5 nanoseconds is 0.0 second
+Fri, 15 Mar 01:08 PM > convert 154 feet into centimetres
+	Reponse: 154 feet is 4693.919999999999 centimeter
+Fri, 15 Mar 01:10 PM > convert 154 ft to centimetres
+	Reponse: 154 ft is 4693.919999999999 centimeter
+Fri, 15 Mar 01:11 PM > convert 154 ft into centimetres
+	Reponse: 154 ft is 4693.919999999999 centimeter
+Fri, 15 Mar 01:12 PM > convert 5 ft to cm
+	Reponse: 5 ft is 152.39999999999998 centimeter
+Fri, 15 Mar 01:15 PM > convert 5 ft into centimetres
+	Reponse: 5 ft is 152.00 centimeter
+Fri, 15 Mar 01:19 PM > convert 5 ft into centimetres
+	Reponse: 5 ft is 152.40 centimeter
+Fri, 15 Mar 01:19 PM > convert 154 feet into centimetres
+	Reponse: 154 feet is 4693.92 centimeter
+Fri, 15 Mar 01:20 PM > convert 3 cm into nm
+	Reponse: 3 cm is 3.00e+07 nanometer
+Fri, 15 Mar 01:20 PM > convert 3 nm into cm
+	Reponse: 3 nm is 3.00e-07 centimeter
+Fri, 15 Mar 01:29 PM > convert 3 nm into centimetres convert 3 nm into centimetres
+	Reponse: 3 nm is 3e-07 centimeter
+Fri, 15 Mar 01:30 PM > convert 3 nm into centimetres
+	Reponse: 3 nm is 3 times 10 raised to the power of -07 centimeter
+Fri, 15 Mar 01:36 PM > convert 3 nm into centimetre
+	Reponse: 3 nm is 3 times 10 raised to the power of negative 7 centimeter
+Fri, 15 Mar 01:37 PM > convert 3 cm into km
+	Reponse: 3 cm is 3 times 10 raised to the power of negative 5 kilometer
+Fri, 15 Mar 01:37 PM > convert 8 km into nm
+	Reponse: 8 km is 8 times 10 raised to the power of +12 nanometer
+Fri, 15 Mar 01:38 PM > convert 3 km into nm
+	Reponse: 3 km is 3 times 10 raised to the power of 12 nanometer
+Fri, 15 Mar 01:41 PM > convert 1200 ft
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 01:41 PM > convert 1000 ft into inches
+	Reponse: 1000 ft is 12000 inch
+Fri, 15 Mar 01:42 PM > convert 10000 ft into inches convert 10000 ft into inches
+	Reponse: 10000 ft is 120000 inch
+Fri, 15 Mar 01:42 PM > convert 10 million ft
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 01:42 PM > convert 10 million ft into inches
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 01:46 PM > convert 10 inches into nm
+	Reponse: 10 inches is 2.54 times 10 raised to the power of 8 nanometer
+Fri, 15 Mar 01:48 PM > convert 10 inches into nm
+	Reponse: 10 inches is 2.54 into 10 to the power of 8 nanometer
+Fri, 15 Mar 01:48 PM > convert 10 nm into inches
+	Reponse: 10 nm is 3.94 into 10 to the power of negative 7 inch
+Fri, 15 Mar 01:49 PM > convert 3 seconds to hours
+	Reponse: 3 seconds is 8.33 into 10 to the power of negative 4 hour
+Fri, 15 Mar 01:51 PM > convert 3 days into nanoseconds
+	Reponse: 3 days is 2.59 into 10 to the power of 14 nanosecond
+Fri, 15 Mar 01:52 PM > convert 225 pounds into kilograms
+	Reponse: 225 pounds is 102.06 kilogram
+Fri, 15 Mar 01:53 PM > convert 10 cm into
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 01:53 PM > convert 10 cm
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 01:53 PM > could not recognize
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 01:54 PM > convert 10 cm into inches
+	Reponse: 10 cm is 3.94 inch
+Fri, 15 Mar 01:55 PM > convert 1 inch into centimetres
+	Reponse: 1 inch is 2.54 centimeter
+Fri, 15 Mar 01:55 PM > what is 9 raise to power 9
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 01:56 PM > what is 9 raised to 9
+	Reponse: 387420489
+Fri, 15 Mar 01:57 PM > what is 9 raised to power 9
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 01:57 PM > what is 12 upon 3
+	Reponse: 4.0
+Fri, 15 Mar 01:58 PM > what is my last period
+	Reponse: physics
+Fri, 15 Mar 01:58 PM > what is my third period
+	Reponse: IP P E
+Fri, 15 Mar 02:06 PM > what is my zero period
+	Reponse: IP P E
+Fri, 15 Mar 02:12 PM > what is my zero period tomorrow
+	Reponse: error_no_zero_period
+Fri, 15 Mar 02:12 PM > what is my zero period day after tomorrow
+	Reponse: The day after tomorrow is a Sunday, there are no classes scheduled.
+Fri, 15 Mar 02:22 PM > what is my zero period on
+	Reponse: IP P E
+Fri, 15 Mar 02:23 PM > what is my third period on monday
+	Reponse: IP P E
+Fri, 15 Mar 02:23 PM > what is my third period on monday
+	Reponse: IP P E
+Fri, 15 Mar 02:26 PM > nexus what is my third period on monday
+	Reponse: IP P E
+Fri, 15 Mar 02:27 PM > what is my third period on monday
+	Reponse: IP P E
+Fri, 15 Mar 02:29 PM > what is my third period tomorrow
+	Reponse: IP P E
+Fri, 15 Mar 02:29 PM > what was my fifth period yesterday
+	Reponse: physics
+Fri, 15 Mar 02:29 PM > what was my fifth period day before yesterday
+	Reponse: physics
+Fri, 15 Mar 02:30 PM > what was my fifth period on monday
+	Reponse: physics
+Fri, 15 Mar 02:30 PM > what will be my fifth period on mon
+	Reponse: physics
+Fri, 15 Mar 02:32 PM > what is my third period on monday
+	Reponse: 3rd period wooo
+Fri, 15 Mar 02:33 PM > what will be my 6th period on monday next year question
+	Reponse: english
+Fri, 15 Mar 03:22 PM > what is my fourth period on
+	Reponse: IP P E
+Fri, 15 Mar 04:03 PM > what is my last period
+	Reponse: physics
+Fri, 15 Mar 04:07 PM > Hi
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 04:07 PM > Hi
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 04:08 PM > convert 5 meters to feet
+	Reponse: 5 meters is 16.40 foot

@@ -1,0 +1,135 @@
+------------- NEXUS CONVERSATION LOGS ---------------
+Fri, 15 Mar 04:11 PM > convert 5 meters to feet
+	Reponse: 5 meters is 16.40 foot
+Fri, 15 Mar 04:20 PM > convert 5 meters to feet
+	Reponse: 5 meters is 16.40 foot
+Fri, 15 Mar 04:44 PM > what is my third period on tuesday
+	Reponse: Access Denied.
+Fri, 15 Mar 04:44 PM > what is my third period on tuesday
+	Reponse: Access Denied.
+Fri, 15 Mar 04:45 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:56 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:56 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:56 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:56 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:57 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:57 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 04:58 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 05:00 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 05:00 PM > what is my third period on tuesday
+	Reponse: None
+Fri, 15 Mar 05:30 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:37 PM > reboot reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:40 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:45 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:46 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:46 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:50 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:51 PM > reboot reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 05:52 PM > reboot
+	Reponse: COMMAND_REBOOT
+Fri, 15 Mar 06:00 PM > what is my fourth period
+	Reponse: Access Denied.
+Fri, 15 Mar 06:06 PM > hello
+	Reponse: Greetings!
+Fri, 15 Mar 06:06 PM > good morning
+	Reponse: Good Evening!
+Fri, 15 Mar 06:10 PM > what is my third period
+	Reponse: IP P E
+Fri, 15 Mar 09:17 PM > what is my last period
+	Reponse: physics
+Fri, 15 Mar 09:26 PM > what is 5 metres
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 09:28 PM > what is 5 metres
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 09:51 PM > what is 9 raised to the power 9
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 09:51 PM > what is 3 / 9
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 09:52 PM > what is 3 + 3
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 09:53 PM > what is 3 + 3
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 10:03 PM > what is three added to 9
+	Reponse: hehe
+Fri, 15 Mar 10:04 PM > what is three added
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 10:05 PM > what is three added to 9
+	Reponse: hehe
+Fri, 15 Mar 10:06 PM > what is 3 added to 9
+	Reponse: 12
+Fri, 15 Mar 10:06 PM > what is 3 - 9
+	Reponse: -6
+Fri, 15 Mar 10:09 PM > what is 3 x 9 what is 3 x 9.95
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 10:09 PM > what is 3 x 9
+	Reponse: 27
+Fri, 15 Mar 10:10 PM > what is 3 + 3
+	Reponse: 6
+Fri, 15 Mar 10:14 PM > what is 3 + 3
+	Reponse: 6
+Fri, 15 Mar 10:14 PM > what's my first period day after tomorrow
+	Reponse: The day after tomorrow is a Sunday, there are no classes scheduled.
+Fri, 15 Mar 10:14 PM > what was my third period day before yesterday
+	Reponse: IP P E
+Fri, 15 Mar 10:14 PM > what was my first period on
+	Reponse: math
+Fri, 15 Mar 10:14 PM > what is my first period on tuesday
+	Reponse: math
+Fri, 15 Mar 10:15 PM > convert 5 nm into metres
+	Reponse: 5 nm is 5 into 10 to the power of negative 9 meter
+Fri, 15 Mar 10:15 PM > 3 inches
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 10:15 PM > convert 13 inches into
+	Reponse: Invalid input. Please try again.
+Fri, 15 Mar 10:15 PM > convert 12 inches into cm
+	Reponse: 12 inches is 30.48 centimeter
+Fri, 15 Mar 10:15 PM > hu r u
+	Reponse: I'm Nexus, your personal assistant. How may I assist you today?
+Fri, 15 Mar 10:16 PM > besharam good morning bol raha hun
+	Reponse: Sorry, I could not understand that.
+Fri, 15 Mar 10:16 PM > good morning
+	Reponse: Good Night! Make sure you go to bed on time!
+Fri, 15 Mar 10:16 PM > what is 9 raise to power 3 and half
+	Reponse: Sorry, I could not calculate that.
+Fri, 15 Mar 10:17 PM > what is 5 raised to 2.4
+	Reponse: 47.59134846789696
+Fri, 15 Mar 10:17 PM > what is 5 raised to 1.49
+	Reponse: 11.001839537809289
+Sun, 17 Mar 06:43 PM > error_could_not_recognize
+	Reponse: Sorry, I could not understand that.
+Sun, 17 Mar 06:44 PM > nexus who is rijul
+	Reponse: Sorry, I could not understand that.
+Mon, 02 Sep 07:22 PM > what is 3 + 3
+	Reponse: 6
+Mon, 02 Sep 07:23 PM > integrate x with respect to x
+	Reponse: Sorry, I could not understand that.
+Mon, 02 Sep 07:23 PM > convert 1 yard to inches
+	Reponse: 1 yard is 36 inch
+Mon, 02 Sep 07:23 PM > how many yards is 1 inch
+	Reponse: Sorry, I could not understand that.
+Mon, 02 Sep 07:23 PM > what is 1 yard in inches
+	Reponse: Sorry, I could not calculate that.
+Mon, 02 Sep 07:23 PM > convert 1 yard to inches
+	Reponse: 1 yard is 36 inch
+Mon, 02 Sep 07:24 PM > convert 1 cubic metre to ml
+	Reponse: Invalid input. Please try again.
+Mon, 02 Sep 07:24 PM > convert 5 seconds to metres
+	Reponse: conversion not possible from seconds to metres. Please check your units.
